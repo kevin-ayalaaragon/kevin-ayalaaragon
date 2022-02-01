@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola! I'm Kevin Alejandro Ayala Aragon 👋
+
+- 🔭 I’m currently working on using Python to develop on AWS
+- 🌱 I’m currently learning AWS Development
+- 👯 I’m looking to collaborate on anything python or javascipt 
+- 💬 Ask me about technology consulting and low code no code digital platforms 
+- 📫 How to reach me: kayalaaragon@gmail.com
+- ⚡ Fun fact: I love soccer 
 
 <!--
 **kevin-ayalaaragon/kevin-ayalaaragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
